@@ -1,4 +1,4 @@
-# Plutoboy 
+# Plutoboy  
 
 A multiplatform Gameboy and Gameboy Color emulator for Windows, OSX, Linux/Unix based systems, Android, iOS, UEFI, Web Browsers, PSP, PSP Vita, 3DS, and Switch.
 
