@@ -7,7 +7,7 @@ $(error "Please set DEVKITPRO in your environment. export DEVKITPRO=<path to>dev
 endif
 
 TOPDIR ?= $(CURDIR)
-include $(DEVKITPRO)/libnx/switch_rules
+include $(DEVKITPRO)/libnx/switch_rules 
 
 #---------------------------------------------------------------------------------
 # TARGET is the name of the output
